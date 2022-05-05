@@ -1,0 +1,14 @@
+material fuel-line1/Diffuse
+{
+  receive shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      { 
+        texture sofa1.png
+      }
+    } 
+  }  
+}   

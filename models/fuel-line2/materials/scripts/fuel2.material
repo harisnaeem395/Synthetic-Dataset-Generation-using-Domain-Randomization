@@ -1,0 +1,14 @@
+material Gazebo/fuel2
+{
+  receive shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      { 
+        texture sofa1.png
+      }
+    } 
+  }  
+}  

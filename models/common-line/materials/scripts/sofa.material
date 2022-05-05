@@ -1,0 +1,14 @@
+material common-line/Diffuse
+{
+  receive shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      { 
+        texture /textures/wave2.png
+      }
+    } 
+  }  
+}   
