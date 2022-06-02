@@ -2,7 +2,7 @@
 
 Gazeo dataset generation and variations in physical parameters for metal objects 
 
-The work os ongoing. Initial results are shown below. 
+The work is ongoing. Initial results are shown below. 
 
 Original Dataset
 
