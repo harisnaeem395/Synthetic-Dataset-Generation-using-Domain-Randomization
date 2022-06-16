@@ -12,9 +12,9 @@ With textures and background
 
 ![Dataset 2](https://user-images.githubusercontent.com/84769093/166893132-cadfd7d5-340b-4df1-8d89-7010775da0ca.png)
 
-(https://user-images.githubusercontent.com/84769093/174090219-ac120f86-bab4-40bf-80bf-1d52f7ac8e1b.png)
+![Dataset 3](https://user-images.githubusercontent.com/84769093/174090219-ac120f86-bab4-40bf-80bf-1d52f7ac8e1b.png)
 
-(https://user-images.githubusercontent.com/84769093/174090307-e3e6e12b-c18f-4751-a9eb-af043a281522.png)
+![Dataset 4](https://user-images.githubusercontent.com/84769093/174090307-e3e6e12b-c18f-4751-a9eb-af043a281522.png)
 
 ![fuel_lava](https://user-images.githubusercontent.com/84769093/171748532-fef1bb2f-74aa-4b52-89aa-bc1d16989582.png)
 
