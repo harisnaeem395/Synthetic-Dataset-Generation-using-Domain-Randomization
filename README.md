@@ -10,6 +10,10 @@ Original Dataset
 
 With textures and background
 
+/home/localadmin/Downloads/ignition_workspace/src/segmentation_data/instance_camera/Metal_objects_new/image_0000207.png
+/home/localadmin/Downloads/ignition_workspace/src/segmentation_data/instance_camera/Metal_objects_new/image_0000236.png
+/home/localadmin/Downloads/ignition_workspace/src/segmentation_data/instance_camera/Metal_objects_new/image_0000244.png
+
 ![Dataset 2](https://user-images.githubusercontent.com/84769093/166893132-cadfd7d5-340b-4df1-8d89-7010775da0ca.png)
 
 ![Dataset 3](https://user-images.githubusercontent.com/84769093/174090219-ac120f86-bab4-40bf-80bf-1d52f7ac8e1b.png)
