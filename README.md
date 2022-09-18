@@ -8,11 +8,13 @@ Original Dataset
 
 ![Dataset 1](https://user-images.githubusercontent.com/84769093/166892994-880265d4-52c2-42a7-832d-5f8b2f543033.png)
 
-With textures and background
+With textures and background!
 
-/home/localadmin/Downloads/ignition_workspace/src/segmentation_data/instance_camera/Metal_objects_new/image_0000207.png
-/home/localadmin/Downloads/ignition_workspace/src/segmentation_data/instance_camera/Metal_objects_new/image_0000236.png
-/home/localadmin/Downloads/ignition_workspace/src/segmentation_data/instance_camera/Metal_objects_new/image_0000244.png
+![image_0000246](https://user-images.githubusercontent.com/84769093/190931445-f0aa959b-f47e-4245-ac57-070ca17cefa7.png)
+
+![image_0000206](https://user-images.githubusercontent.com/84769093/190931454-a3ac267f-6de8-4fef-9de7-f2bab9577280.png)
+
+![image_0000246](https://user-images.githubusercontent.com/84769093/190931460-381d9a96-28f3-4c94-8190-1563add3a296.png)
 
 ![Dataset 2](https://user-images.githubusercontent.com/84769093/166893132-cadfd7d5-340b-4df1-8d89-7010775da0ca.png)
 
