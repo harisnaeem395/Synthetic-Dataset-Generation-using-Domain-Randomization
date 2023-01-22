@@ -20,7 +20,7 @@ The model files for the objects can be accessed from the Google Drive: \
 https://drive.google.com/drive/folders/1LwW7lkFrzrbW3L-idtGfOjQ4Fy4-pFRA?usp=share_link
 
 ## Model weights and output files
-The model weights are based on COCO baselines and can be accessed from: \ 
+The model weights are based on COCO baselines and can be accessed from: \  
 https://drive.google.com/drive/folders/183EaLuIK6e_3CLihyE5DaHDeGd0sRItd?usp=sharing
 
 The output files can be accessed from: \
