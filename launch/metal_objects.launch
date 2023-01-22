@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<launch>
+
+  
+   <!-- TODO(anyone) Re-enable demo once point cloud package is back.
+    See https://github.com/osrf/ros_ign/issues/40 -->
+
+  <include file="$(find ros_ign_gazebo)/launch/ign_gazebo.launch">
+    <arg name="ign_args" value="$(find src)/minimal_scene.sdf"/>
+  </include>
+
+  <node
+    pkg="ros_ign_bridge"
+    type="parameter_bridge"
+    name="$(anon ros_ign_bridge)"
+    output="screen"
+    args="/world/minimal_scene/model/realsense/link/link/sensor/realsense_d435/camera_info@ignition.msgs.CameraInfo /world/minimal_scene/model/realsense/link/link/sensor/realsense_d435/          	 image@ignition.msgs.Image /world/minimal_scene/model/realsense/link/link/sensor/realsense_d435/depth_image@ignition.msgs.Image">
+  </node>
+ 
+</launch>
+
+
