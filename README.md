@@ -4,15 +4,15 @@ The project develops a synthetic dataset using Domain Randomization (DR) for ind
 
 The work has been completed as part of Masters Thesis in Robotics and Artificial Intelligence at Tampere University (2022). 
 
-# Requirements
+## Requirements
 
 The work has been implmeneted using:
 
-Ubuntu 20.04 and ROS Noetic
-Blender 3.1.0
-Ignition Gazebo 6 (Fortress version)
-Python 3.8
-Detectron2 v0.6 (CUDA 10.2)
+*Ubuntu 20.04 and ROS Noetic
+*Blender 3.1.0
+*Ignition Gazebo 6 (Fortress version)
+*Python 3.8
+*Detectron2 v0.6 (CUDA 10.2)
 
 
 Original Dataset
