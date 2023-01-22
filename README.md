@@ -1,4 +1,4 @@
-# Dataset-Generation
+# Domain Randomization for Visual sim-to-real Object Pose Estimation 
 
 Gazeo dataset generation and variations in physical parameters for metal objects 
 
