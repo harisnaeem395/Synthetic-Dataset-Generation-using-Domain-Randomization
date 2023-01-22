@@ -1,6 +1,6 @@
 # Domain Randomization for Visual sim-to-real Object Pose Estimation 
 
-The project develops a synthetic dataset using Domain Randomization (DR) for industrail parts used in Diesel engine assembly. Modificiations are done in the physical dynamics in the form of textures, colours, background and lighting. 
+The project develops a synthetic dataset using Domain Randomization (DR) technique for industrial parts used in diesel engine assembly. Modificiations are done in the physical dynamics in the form of textures, colours, background and lighting. 
 
 The work has been completed as part of Masters Thesis in Robotics and Artificial Intelligence at Tampere University (2022). 
 
@@ -28,9 +28,7 @@ Metallic textures applied using PBR method in Blender and exported to Gazebo for
 
 ![image_0000206](https://user-images.githubusercontent.com/84769093/190931454-a3ac267f-6de8-4fef-9de7-f2bab9577280.png)
 
-![image_0000246](https://user-images.githubusercontent.com/84769093/190931460-381d9a96-28f3-4c94-8190-1563add3a296.png)
-
-![Dataset 2](https://user-images.githubusercontent.com/84769093/166893132-cadfd7d5-340b-4df1-8d89-7010775da0ca.png)
+## Random Textures and Colours
 
 ![Dataset 3](https://user-images.githubusercontent.com/84769093/174090219-ac120f86-bab4-40bf-80bf-1d52f7ac8e1b.png)
 
