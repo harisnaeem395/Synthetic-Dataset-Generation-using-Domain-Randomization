@@ -42,7 +42,8 @@ Metallic textures applied using PBR method in Blender and exported to Gazebo for
 
 ![Screenshot from 2022-06-02 17-25-04](https://user-images.githubusercontent.com/84769093/171748639-dc8e1eb2-d605-4393-9032-f31bdcd206cd.png)
 
-![Coloured objects] /home/localadmin/Downloads/Thesis Pics/Coloured objects.png
+![Coloured objects](https://user-images.githubusercontent.com/84769093/213942527-c69e0935-3f1b-4c1c-8b11-bc079f1d35a1.png)
+
 
 ## Lighting conditions
 ![Dataset 3](https://user-images.githubusercontent.com/84769093/166893185-87f25729-63c4-4bd4-986a-742190e75297.png)
