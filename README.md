@@ -1,6 +1,6 @@
 # Domain Randomization for Visual sim-to-real Object Pose Estimation 
 
-Gazeo dataset generation and variations in physical parameters for metal objects 
+The project develops a synthetic dataset using Domain Randomization.
 
 The work is ongoing. Initial results are shown below. 
 
