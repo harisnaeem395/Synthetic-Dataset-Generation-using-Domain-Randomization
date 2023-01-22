@@ -14,6 +14,10 @@ The work has been implmeneted using:
 * Python 3.8
 * Detectron2 v0.6 (CUDA 10.2)
 
+## Model files
+
+The model files for the objects can be accessed from the Google Drive: 
+https://drive.google.com/drive/folders/1LwW7lkFrzrbW3L-idtGfOjQ4Fy4-pFRA?usp=share_link
 
 ## Original Dataset
 
