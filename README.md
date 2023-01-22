@@ -15,11 +15,14 @@ The work has been implmeneted using:
 * Detectron2 v0.6 (CUDA 10.2)
 
 
-Original Dataset
+## Original Dataset
 
+The original CAD files for the common rail and fuel lines.
 ![Dataset 1](https://user-images.githubusercontent.com/84769093/166892994-880265d4-52c2-42a7-832d-5f8b2f543033.png)
 
-With textures and background!
+## Metallic Textures
+
+Metallic textures applied using PBR method in Blender and exported to Gazebo for final dataset.
 
 ![image_0000246](https://user-images.githubusercontent.com/84769093/190931445-f0aa959b-f47e-4245-ac57-070ca17cefa7.png)
 
