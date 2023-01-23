@@ -40,6 +40,7 @@ Metallic textures applied using PBR method in Blender and exported to Gazebo for
 ![image_0000206](https://user-images.githubusercontent.com/84769093/190931454-a3ac267f-6de8-4fef-9de7-f2bab9577280.png)
 
 ## Random Textures and Colours
+A set of random textures and colours were also applied on the objects. 
 
 ![Dataset 3](https://user-images.githubusercontent.com/84769093/174090219-ac120f86-bab4-40bf-80bf-1d52f7ac8e1b.png)
 
